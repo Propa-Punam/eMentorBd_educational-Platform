@@ -2,6 +2,8 @@
 
 eMentor BD is a comprehensive educational platform designed to facilitate online learning, course management, and knowledge sharing. The platform provides features for course enrollment, assessments, user discussions, and content management.
 
+![Simulator Screenshot](./assets/s.png)  <!-- Replace this with an actual screenshot path if available -->
+
 ## 🌟 Features
 
 ### For Students
